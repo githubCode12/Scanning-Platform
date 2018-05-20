@@ -49,7 +49,7 @@ QR code is a kind of readability bar code, mainly used in network resource stora
 ### User Information
 
 <br>
-main: Aisha3178307@gmail.com
+mail: Aisha3178307@gmail.com
 <br>
 tell: +60133881174
 
