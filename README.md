@@ -1,11 +1,11 @@
-# Drinking Platform
+# Scanning Platform
 
 <div align="center">
-<img width=300 src="https://raw.githubusercontent.com/BlackFlora/DrinkingPlatform/master/IMG/111.jpg">
+<img width=300 src="https://raw.githubusercontent.com/githubCode12/Scanning-Platform/master/IMG/logo.jpg">
 
 <br> <br>
 
-<h1> Drinking Platform </h1>
+<h1> Scanning Platform </h1>
 <h3> </h3></div>
 
 <br>
@@ -15,11 +15,10 @@
 <table align="center" border="0">
 
 <tr>
-<td> <img src="https://raw.githubusercontent.com/BlackFlora/DrinkingPlatform/master/IMG/1.JPG"> </td>
-<td> <img src="https://raw.githubusercontent.com/BlackFlora/DrinkingPlatform/master/IMG/2.JPG"> </td>
-<td> <img src="https://raw.githubusercontent.com/BlackFlora/DrinkingPlatform/master/IMG/3.JPG"> </td>
-<td> <img src="https://raw.githubusercontent.com/BlackFlora/DrinkingPlatform/master/IMG/4.JPG"> </td>
-<td> <img src="https://raw.githubusercontent.com/BlackFlora/DrinkingPlatform/master/IMG/5.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/githubCode12/Scanning-Platform/master/IMG/1.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/githubCode12/Scanning-Platform/master/IMG/2.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/githubCode12/Scanning-Platform/master/IMG/3.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/githubCode12/Scanning-Platform/master/IMG/4.JPG"> </td>
 </tr>
 
 <tr>
@@ -30,18 +29,21 @@
 </table>
 
 ## Description
+
 <br>
-The drinking platform is a practical app that reminds us to drink water at the right time.
+This is an efficient mobile barcode scanning software that allows users to identify QR codes and generate QR codes.
 <br>
-The main function:
+Features:
 <br>
-- Set a target amount for daily drinking and follow up
+-Generate QR code to support customization
 <br>
-- Record daily water consumption,
+-Sweep, Smooth, Direct, Simple and Quick
 <br>
-- Customize the amount of water each time,
+-Instantly share QR code
 <br>
-- Shows your daily, last week's amount of water.
+tips:
+<br>
+QR code is a kind of readability bar code, mainly used in network resource storage, information transfer, security applications, logistics tracking, backup applications and other aspects.
 <br>
 
 ### User Information
