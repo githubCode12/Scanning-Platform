@@ -47,14 +47,16 @@ QR code is a kind of readability bar code, mainly used in network resource stora
 <br>
 
 ### User Information
-pzuijs@163.com
+
 <br>
-tell: +60133698698
+main: Aisha3178307@gmail.com
+<br>
+tell: +60133881174
 
 
 
 ## Author
 
-[@BlackFlora]
+[@Zhouxusha]
 
 
