@@ -1,51 +1,58 @@
-<div align="center">
+# Drinking Platform
 
+<div align="center">
+<img width=300 src="https://raw.githubusercontent.com/BlackFlora/DrinkingPlatform/master/IMG/111.jpg">
 
 <br> <br>
 
-<h1> Scanning Platform </h1> 
-
+<h1> Drinking Platform </h1>
+<h3> </h3></div>
 
 <br>
 
-
-### Screenshots
+## Screenshots
 
 <table align="center" border="0">
 
 <tr>
-<td> <img src="http://i.imgur.com/fXB42iY.png"> </td>
-<td> <img src="http://i.imgur.com/oiV55gW.png"> </td>
-<td> <img src="http://i.imgur.com/MgpfvQU.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/BlackFlora/DrinkingPlatform/master/IMG/1.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/BlackFlora/DrinkingPlatform/master/IMG/2.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/BlackFlora/DrinkingPlatform/master/IMG/3.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/BlackFlora/DrinkingPlatform/master/IMG/4.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/BlackFlora/DrinkingPlatform/master/IMG/5.JPG"> </td>
 </tr>
 
 <tr>
-<td> <img src="http://i.imgur.com/EMGOw0g.png"> </td>
-<td> <img src="http://i.imgur.com/gD45NYH.png"> </td>
+
 </tr>
 
 
 </table>
 
-### Description
+## Description
 <br>
-This is an efficient mobile barcode scanning software that allows users to identify QR codes and generate QR codes.
+The drinking platform is a practical app that reminds us to drink water at the right time.
 <br>
-Features:
+The main function:
 <br>
-- Generate QR code to support customization
+- Set a target amount for daily drinking and follow up
 <br>
-- Sweep, Sweep, Smooth, Direct, Simple and Quick
+- Record daily water consumption,
 <br>
-- Instantly share QR code
+- Customize the amount of water each time,
 <br>
-tips:
+- Shows your daily, last week's amount of water.
 <br>
-QR code is a kind of readability bar code, mainly used in network resource storage, information transfer, security applications, logistics tracking, backup applications and other aspects.
-<br>
-
 
 ### User Information
-mail: to78747868@sina.com
+pzuijs@163.com
 <br>
-tell: +60133881174
+tell: +60133698698
+
+
+
+## Author
+
+[@BlackFlora]
+
+
