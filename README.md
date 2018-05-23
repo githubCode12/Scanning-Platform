@@ -1,7 +1,7 @@
 # Scanning Platform
 
 <div align="center">
-<img width=300 src="https://raw.githubusercontent.com/githubCode12/Scanning-Platform/master/IMG/logo.jpg">
+<img width=300 src="https://raw.githubusercontent.com/githubCode12/Scanning-Platform/master/IMG/11.jpg">
 
 <br> <br>
 
@@ -15,7 +15,6 @@
 <table align="center" border="0">
 
 <tr>
-<td> <img src="https://raw.githubusercontent.com/githubCode12/Scanning-Platform/master/IMG/0.JPG"> </td>
 <td> <img src="https://raw.githubusercontent.com/githubCode12/Scanning-Platform/master/IMG/2.JPG"> </td>
 <td> <img src="https://raw.githubusercontent.com/githubCode12/Scanning-Platform/master/IMG/3.JPG"> </td>
 <td> <img src="https://raw.githubusercontent.com/githubCode12/Scanning-Platform/master/IMG/4.JPG"> </td>
